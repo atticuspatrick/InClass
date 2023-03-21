@@ -1,3 +1,5 @@
+#bugs introduced AP
+
 #include <iostream>
 #include <iomanip>
 #include <sstream>
@@ -6,7 +8,7 @@
 int main()
 {
     // Store date and time in a string
-    std::string date_str = "2022-03-17 10:45:30";
+    std::string date_str = ;
     
     // Format using a specified pattern
     std::tm date_obj = {};
