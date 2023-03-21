@@ -8,7 +8,7 @@
 int main()
 {
     // Store date and time in a string
-    std::string date_str = ;
+    std::string date_str = :"2022-03-17 10:45:30";
     
     // Format using a specified pattern
     std::tm date_obj = {};
